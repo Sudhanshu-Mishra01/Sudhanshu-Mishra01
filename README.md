@@ -1,7 +1,4 @@
-# 🤖 AI Engineer | Innovating with Intelligence
-
-![AI Engineer Banner](https://via.placeholder.com/1200x300.png?text=AI+Engineer+Portfolio)  
-*“Building intelligent systems to solve real-world problems, one model at a time.”*
+# 🤖 AI Engineer
 
 ---
 
@@ -104,9 +101,3 @@ Transfer learning–based image classifier with high accuracy.
 - SQL Database – PD Workforce  
 
 ---
-
-> “The best way to predict the future is to create it.” – Peter Drucker  
-
-*Let’s build the future of AI together! 🚀*
-
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting!)
