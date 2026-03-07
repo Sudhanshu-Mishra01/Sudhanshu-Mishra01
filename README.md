@@ -84,7 +84,6 @@ Transfer learning–based image classifier with high accuracy.
 ## 📫 Get in Touch
 
 - 📧 **Email**: sudhanshu.mishra05071@gmail.com  
-- 📱 **Phone**: 8400518694  
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/sudhanshu--mishra/  
 - 🐙 **GitHub**: https://github.com/Sudhanshu-Mishra01  
 
